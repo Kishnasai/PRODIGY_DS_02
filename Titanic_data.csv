@@ -1,0 +1,101 @@
+   ID, Name      , Gender , Age , Survival , Class , Role      
+ P01  , John      , Male   ,35, No       , 3rd   , Passenger 
+ P02  , Mary      , Female ,25, Yes      , 1st   , Passenger 
+ P03  , James     , Male   ,40, No       , 3rd   , Passenger 
+ P04  , Emily     , Female ,22, Yes      , 1st , Passenger 
+ P05  , Michael   , Male   ,35, No       , 3rd   , Passenger 
+ P06  , Sarah     , Female ,28,        Yes             , 1st , Passenger 
+ P07  , Robert    , Male   ,32, No       , 3rd   , Passenger 
+ P08  , Jessica   , Female ,29, Yes      , 1st , Passenger 
+ P09  , William   , Male   ,45, No       , 3rd   , Passenger 
+ P10  , Ashley    , Female ,26,  No     , 1st, Passenger 
+ P11  , Richard   , Male   ,38, Yes       , 3rd   , Passenger 
+ P12  , Olivia    , Female ,24, No       , 1st , Passenger 
+ P13  , Daniel    , Male   ,33,Yes       , 3rd   , Passenger 
+ P14  , Sophia    , Female ,30, No       , 1st , Passenger 
+ P15  , Thomas    , Male   ,41, No       , 3rd   , Passenger 
+ P16  , Emma      , Female ,23, Yes       , 2nd   , Passenger 
+ P17  , Benjamin  , Male   ,37, No       , 3rd   , Passenger 
+ P18  , Ava       , Female ,16, No       , 2nd   , Passenger 
+ P19  , Joseph    , Male   ,34, Yes       , 3rd   , Passenger 
+ P20  , Mia       , Female ,21, No       , 1st , Passenger 
+ P21  , David     , Male   ,17, Yes       , 3rd   , Passenger 
+ P22  , Charlotte , Female ,28, Yes       , 2nd   , Passenger 
+ P23  , Christopher , Male ,36, No       , 3rd   , Passenger 
+ P24  , Grace     , Female ,25, No       , 1st   , Passenger 
+ P25  , Andrew    , Male   ,18,Yes      , 3rd   , Passenger 
+ P26  , Lily      , Female ,17, No       , 2nd   , Passenger 
+ P27  , Matthew   , Male   ,16, Yes       , 3rd   , Passenger 
+ P28  , Aiden     , Male   ,33, No       , 3rd   , Passenger 
+ P29  , Hannah    , Female ,16, Yes      , 2nd   , Passenger 
+ P30  , Ryan      , Male   ,35, No       , 3rd   , Passenger 
+ P31  , Zoe       , Female ,22, Yes       , 2nd   , Passenger 
+ P32  , Ethan     , Male   ,37, No       , 3rd   , Passenger 
+ P33  , Harper    , Female ,18, No       , 2nd   , Passenger 
+ P34  , Logan     , Male   ,17, Yes, 3rd   , Passenger 
+ P35  , Abigail   , Female ,20, No       , 2nd   , Passenger 
+ P36  , Mason     , Male   ,16, Yes       , 3rd   , Passenger 
+ P37  , Sofia     , Female ,27, No       , 2nd   , Passenger 
+ P38  , Jackson   , Male   ,17, Yes       , 3rd   , Passenger 
+ P39  , Ella      , Female ,24, No       , 2nd   , Passenger 
+ P40  , Liam      , Male   ,29, No       , 3rd   , Passenger 
+ P41  , Olivia    , Female ,28, No       , 2nd   , Passenger 
+ P42  , Henry     , Male   ,46, No       , 3rd   , Passenger 
+ P43  , Chloe     , Female ,30, No       , 2nd   , Passenger 
+ P44  , William   , Male   ,34, No       , 3rd   , Passenger 
+ P45  , Ava       , Female ,25, No       , 2nd   , Passenger 
+ P46  , Alexander , Male   ,37, No       , 3rd   , Passenger 
+ P47  , Isabella  , Female ,27, No       , 2nd   , Passenger 
+ P48  , Noah      , Male   ,39, No       , 3rd   , Passenger 
+ P49  , Sophia    , Female ,24, No       , 2nd   , Passenger 
+ P50  , Daniel    , Male   ,33, No       , 3rd   , Passenger 
+ P51  , Mia       , Female ,21, No       , 2nd   , Passenger 
+ P52  , Benjamin  , Male   ,41, No       , 3rd   , Passenger 
+ P53  , Emily     , Female ,28, No       , 2nd   , Passenger 
+ P54  , Ethan     , Male   ,32, No       , 3rd   , Passenger 
+ P55  , Harper    , Female ,22, No       , 2nd   , Passenger 
+ P56  , Mason     , Male   ,36, Yes       , 3rd   , Passenger 
+ P57  , Ava       , Female ,17, No       , 2nd   , Passenger 
+ P58  , William   , Male   ,31, No , 3rd   , Passenger 
+ P59  , Lily      , Female ,26, No       , 1st , Passenger 
+ P60  , Oliver    , Male   ,30, No       , 3rd   ,Passenger
+ C01  , Emma      , Female ,28, No       , E-deck, Crew 
+ C02  , Mary      , Female ,25, Yes      , E-deck, Crew 
+ C03  , Olivia    , Female ,24, No       , E-deck, Crew 
+ C04  , Emily     , Female ,22, No       , E-deck, Crew 
+ C05  , Sophia    , Female ,28, Yes      , E-deck, Crew 
+ C06  , Sarah     , Female ,28, No       , E-deck, Crew 
+ C07  , Jessica   , Female ,29, No       , E-deck, Crew 
+ C08  , Ava       , Female ,27, No       , E-deck, Crew 
+ C09  , Mia       , Female ,21, No       , E-deck, Crew 
+ C10  , Charlotte , Female ,28, No       , E-deck, Crew 
+ C11  , Richard   , Male   ,38, No       , E-deck, Crew 
+ C12  , Oliver    , Male   ,24, Yes       , E-deck, Crew 
+ C13  , Daniel    , Male   ,33, No       , E-deck, Crew 
+ C14  , Thomas    , Male   ,30, No      , E-deck, Crew 
+ C15  , Thomas    , Male   ,41, No       , E-deck, Crew 
+ C16  , Emmett    , Male   ,23, No       , E-deck, Crew 
+ C17  , Benjamin  , Male   ,37, No       , E-deck, Crew 
+ C18  , Aiden     , Male   ,27, No       , E-deck, Crew 
+ C19  , Joseph    , Male   ,34, No       , E-deck, Crew 
+ C20  , Mia       , Male   ,21, No       , E-deck, Crew 
+ C21  , David     , Male   ,39,Yes       , E-deck, Crew 
+ C22  , Charlie   , Male   ,28, No       , E-deck, Crew 
+ C23  , Christopher , Male ,36, No       , E-deck, Crew 
+ C24  , Graham    , Male   ,25, No       , E-deck, Crew 
+ C25  , Andrew    , Male   ,42, No       , E-deck, Crew 
+ C26  , Liam      , Male   ,29, No       , E-deck, Crew 
+ C27  , Matthew   , Male   ,31, No       , E-deck, Crew 
+ C28  , Aiden     , Male   ,33, No       , E-deck, Crew 
+ C29  , Ryan      , Male   ,30, Yes      , E-deck, Crew 
+ C30  , Ryan      , Male   ,35, No       , E-deck, Crew 
+ C31  , Zack      , Male   ,28, No       , E-deck, Crew 
+ C32  , Ethan     , Male   ,37, No       , E-deck, Crew 
+ C33  , Harper    , Male   ,26, No       , E-deck, Crew 
+ C34  , Logan     , Male   ,40, No       , E-deck, Crew 
+ C35  , Abner     , Male   ,23, No       , E-deck, Crew 
+ C36  , Mason     , Male   ,44, No       , E-deck, Crew 
+ C37  , Samuel    , Male   ,27, No       , E-deck, Crew 
+ C38  , Jackson   , Male   ,32, No       , E-deck, Crew 
+ C39  , Eli       , Male   ,24, No       , E-deck, Crew 
+ C40  , Liam      , Male   ,29, No       , E-deck, Crew 
