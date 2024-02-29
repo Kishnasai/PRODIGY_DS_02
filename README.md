@@ -1,0 +1,1 @@
+This repository contains a sample dataset and code for performing Exploratory Data Analysis (EDA) on the famous Titanic dataset. The dataset is a simplified version for educational purposes and aims to showcase the process of exploring and understanding the data before applying machine learning models
